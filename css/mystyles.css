@@ -1,0 +1,132 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
+}
+.site-heading-lower{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mb-3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: burlywood !important;
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px black(0, 0, 0, 0.5);
+}
+
+/*Div styles*/
+.common {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+}
+.top {
+    top: 0px;
+    left: 50px;
+    right: 0px;
+}
+.middle {
+    top: 100px;
+    left: 200px;
+    right: 150px;
+}
+.right {
+    top: 100px;
+    right: 0px;
+    background-color: burlywood;
+}
+.left {
+    top: 100px;
+    left: 0px;
+}
+.bottom {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align: center;
+    background-color: burlywood;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.tableaucontainer{
+    bottom: 300px;
+    left: 200px;
+    right: 200px;
+    text-align: center;
+}
+.invisible{
+    color: blanchedalmond;
+}
+.image-containter{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+.title-container{
+    text-align: center;
+    text-decoration: underline;
+}
+/*.common {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+}
+.top {
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.middle {
+    top: 100px;
+    left: calc(50% - 300px); /* Adjust 300px according to the width of your middle content *//*
+    width: calc(100% - 200px);
+}
+.right {
+    top: 100px;
+    right: 0;
+}
+.left {
+    top: 100px;
+    left: 0;
+}
+.bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    text-align: center;
+}*/
+/*.common {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+}
+.top {
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.middle {
+    top: 100px;
+    left: calc(50% - 100px); /* Adjust 200px based on your content width *//*
+    right: calc(50% - 100px); /* Adjust 200px based on your content width *//*
+}
+.right {
+    top: 100px;
+    right: 0;
+}
+.left {
+    top: 100px;
+    left: 0;
+}
+.bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    text-align: center;
+}*/
